@@ -31,7 +31,6 @@ df['Month'] = df['Order Date'].dt.month
 df['Month_Name'] = df['Order Date'].dt.strftime('%b')
 df['YearMonth'] = df['Order Date'].dt.strftime('%Y-%m')
 df['Shipping_Duration_Days'] = (df['Ship Date'] - df['Order Date']).dt.days
-df['Profit_Margin_%'] = (df['Profit'] / df['Sales']) * 100
 
 # Save cleaned data
 df.to_csv(clean_path, index=False)
