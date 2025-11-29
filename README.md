@@ -34,7 +34,7 @@
 
 | Opportunity Funnel |
 |--------------------|
-| ![Opportunity Funnel](Opportunity Funnel.png) |
+| ![Opportunity Funnel](OpportunityFunnel.png) |
 
 ## 📈 Key Insights
 - **Technology** is the most profitable category, while **Furniture** struggles with margins  
