@@ -26,15 +26,15 @@
 ## 🖼️ Dashboard Preview
 | Overview | Profit & Discount | Customers |
 |----------|------------------|-----------|
-| ![Overview](Screenshots/Overview.png) | ![Profit & Discount](Screenshots/Profit_Discount_Analysis.png) | ![Customers](Screenshots/Customer_Segment_Analysis.png) |
+| ![Overview](Overview.png) | ![Profit & Discount](Profit&Discount.png) | ![Customers](Customers.png) |
 
 | Regions | Products | Shipping |
 |---------|----------|----------|
-| ![Regions](Screenshots/Regional_Market_Analysis.png) | ![Products](Screenshots/Product_Category_Performance.png) | ![Shipping](Screenshots/Shipping_Delivery_Performance.png) |
+| ![Regions](Regional.png) | ![Products](Product.png) | ![Shipping](Shipping.png) |
 
 | Opportunity Funnel |
 |--------------------|
-| ![Opportunity Funnel](Screenshots/Sales_Pipeline_Oppourtunity_Tracking.png) |
+| ![Opportunity Funnel](OppourtunityFunnel.png) |
 
 ## 📈 Key Insights
 - **Technology** is the most profitable category, while **Furniture** struggles with margins  
