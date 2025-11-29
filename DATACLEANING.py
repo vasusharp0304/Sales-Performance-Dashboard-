@@ -3,7 +3,7 @@ import numpy as np
 from pathlib import Path
 
 # Paths
-raw_path = Path("data/raw/superstore_sales.csv")
+raw_path = Path("train.csv")
 clean_path = Path("data/cleaned/cleaned_sales.csv")
 
 # Create directories
